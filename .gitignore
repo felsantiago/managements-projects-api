@@ -8,4 +8,3 @@ temp/*
 coverage/
 .DS_Store
 .env
-ormconfig.json
